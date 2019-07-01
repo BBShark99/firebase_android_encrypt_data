@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15920246013",
+    "firebase_url": "https://encrypttest-db0da.firebaseio.com",
+    "project_id": "encrypttest-db0da",
+    "storage_bucket": "encrypttest-db0da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15920246013:android:2c250270bccad15c",
+        "android_client_info": {
+          "package_name": "com.example.encryption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15920246013-1tin32p3sgb9eekv5i2iah77qu840ddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UWSa1h6IA2cdzuJ1Nmkhvlw8eMO1dO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15920246013-1tin32p3sgb9eekv5i2iah77qu840ddn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
